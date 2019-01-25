@@ -127,7 +127,7 @@ const styles = {
         height : 80,
         marginLeft: 15,
         marginRight: 15,
-        marginTop:150,
+        marginTop:0,
     },
 
     loginButtonStyle:{
